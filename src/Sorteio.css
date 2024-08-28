@@ -1,0 +1,35 @@
+
+.sorteio-container {
+    color: #28a745;
+    background-color: black;
+    text-align: center;
+    margin-top: 50px;
+
+  }
+
+
+  .titulo {
+    font-size: 24px;
+    color: #28a745;
+  }
+  
+  .botao {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .botao:hover {
+    background-color: #0056b3;
+  }
+  
+  .resultado {
+    margin-top: 20px;
+    font-size: 20px;
+    color: #e3eee6;
+  }
+  
